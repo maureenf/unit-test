@@ -1,0 +1,12 @@
+{
+    "name": "unit-test",
+    "description": "unit test development",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+      },
+    "require": {
+        "phpunit/phpunit": "~6.5.13"
+    }
+}
